@@ -1,4 +1,7 @@
 
+local player = game.Players.LocalPlayer
+local player = game.Players.LocalPlayer
+local player = game.Players.LocalPlayer
 _G.loop = true
 local player = game.Players.LocalPlayer
 local char = player.Character
